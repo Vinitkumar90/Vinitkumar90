@@ -7,13 +7,14 @@
 
 
 ## About Me:
-loading...
+<h4>Learning to code</h4>
 
 
-portfolio website : 
+
+portfolio website : v soon
 
 
 ## Languages and Tools:
-loading...
+tech1..techn
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitkumar90&show_icons=true&locale=en&layout=compact" alt="vinitkumar90" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinitkumar90&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
